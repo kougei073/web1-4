@@ -2,9 +2,7 @@
 font-size:2.0em;
 font-weight: bold;
 }
-#lead{border-top: #6fbb9a;
-    text-align: center;
-
+#lead{font-weight:2.0em
 }
 body{
   background-color: #0000ff;
