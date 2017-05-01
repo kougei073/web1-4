@@ -2,6 +2,10 @@
 font-size:2.0em;
 font-weight: bold;
 }
+#lead{border-top: #6fbb9a;
+    text-align: center;
+
+}
 body{
   background-color: #0000ff;
   background-image:url(ピクトグラム.jpg);
