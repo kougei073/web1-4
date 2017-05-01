@@ -4,7 +4,7 @@ font-weight: bold;
 }
 #lead{color:#0000ff;
 }
-p.greeting:first-letter{font-size:500%;}
+.greeting{first-letterfont-size:500%;}
 body{
   background-color: #0000ff;
   background-image:url(ピクトグラム.jpg);
