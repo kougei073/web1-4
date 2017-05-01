@@ -2,8 +2,9 @@
 font-size:2.0em;
 font-weight: bold;
 }
-#lead{color:#0000ff;}
-.greeting{color:#dc143c;}
+#lead{color:#0000ff;
+}
+.greeting:first-letter{font-size:500%;}
 body{
   background-color: #0000ff;
   background-image:url(ピクトグラム.jpg);
