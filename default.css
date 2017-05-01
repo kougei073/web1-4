@@ -2,8 +2,8 @@
 font-size:2.0em;
 font-weight: bold;
 }
-#lead{color:#0000ff;
-}
+#lead{color:#0000ff;}
+.greeting{color:#dc143c;}
 body{
   background-color: #0000ff;
   background-image:url(ピクトグラム.jpg);
