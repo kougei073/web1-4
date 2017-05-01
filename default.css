@@ -1,4 +1,6 @@
   h1 span{color:#696969;}
 body{
   background-color: #0000ff;
+  background-image:url(ピクトグラム.jpg);
+  background-repeat:repeat-x;
 }
